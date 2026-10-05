@@ -237,6 +237,13 @@ const participants = [
     division: "SRD",
     position: "-"
   }
+  {
+  
+    name: "Ferdi Arga Varian",
+    status: "LULUS",
+    division: "Board Of Director",
+    position: "Chairperson"
+}
 
 ];
 
